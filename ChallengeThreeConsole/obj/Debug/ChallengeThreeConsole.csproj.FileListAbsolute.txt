@@ -1,0 +1,10 @@
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\bin\Debug\ChallengeThreeConsole.exe.config
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\bin\Debug\ChallengeThreeConsole.exe
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\bin\Debug\ChallengeThreeConsole.pdb
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\bin\Debug\ChallengeThreeClasses.dll
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\bin\Debug\ChallengeThreeClasses.pdb
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\obj\Debug\ChallengeThreeConsole.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\obj\Debug\ChallengeThreeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\obj\Debug\ChallengeThreeConsole.csproj.CopyComplete
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\obj\Debug\ChallengeThreeConsole.exe
+C:\Users\Nick\source\repos\GoldBadgeChallenges\ChallengeThreeConsole\obj\Debug\ChallengeThreeConsole.pdb

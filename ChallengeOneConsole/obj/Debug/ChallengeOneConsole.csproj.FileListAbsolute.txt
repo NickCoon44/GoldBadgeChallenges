@@ -1,0 +1,10 @@
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe.config
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.pdb
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\01_KomodoCafeClasses.dll
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\01_KomodoCafeClasses.pdb
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\ChallengeOneConsole.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\ChallengeOneConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\ChallengeOneConsole.csproj.CopyComplete
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.exe
+C:\Users\Nick\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.pdb
